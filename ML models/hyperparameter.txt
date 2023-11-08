@@ -1,0 +1,30 @@
+GradientBoostingClassifier hyperparameters:
+
+learning_rate: 0.01
+max_depth: 4 
+max_features: 0.8019925215908269
+n_estimators: 94 
+subsample: 0.8279155032164728 
+tol: 0.0001
+The rest hyperparameters were the default option
+
+RandomForestClassifier hyperparameters:
+
+max_depth: 6
+max_features: 0.9804640744130719
+n_estimators: 90
+The rest hyperparameters were the default option
+
+TabNetClassifier hyperparameters:
+
+Gamma: 1.745
+learning_rate: 0.03883
+momentum: 0.05276
+n_a: 28
+n_d: 16
+n_independent: 2
+n_shared: 2
+n_steps: 5
+step_size: 14
+epsilon: 1e-5
+optimizer: Adam optimizer
